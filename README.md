@@ -1,3 +1,3 @@
 updated file second time
 # Fake-News-Detection
-A project that detects fake news using machine learning and python
+This is a sample project created for exploring git hub.
