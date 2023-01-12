@@ -1,2 +1,2 @@
 # Fake-News-Detection
-A project that detects fake news using machine learning and python
+This is a sample project created to explore Git 
